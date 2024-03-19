@@ -1,2 +1,2 @@
 # leetcode-score
-![Leetcode Stats](https://leetcode.com/bob88126/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/bob88126/)
